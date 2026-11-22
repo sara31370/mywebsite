@@ -1,0 +1,8 @@
+{
+  "name": "DocuMind AI | سامانه هوشمند تحلیل اسناد و استخراج دانش سازمانی",
+  "description": "سامانه هوشمند تحلیل اسناد، استخراج دانش، گراف ارتباطات و پرسش‌وپاسخ مستند — پروژه درس الگوهای طراحی نرم‌افزار (مسئله شماره ۷)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
